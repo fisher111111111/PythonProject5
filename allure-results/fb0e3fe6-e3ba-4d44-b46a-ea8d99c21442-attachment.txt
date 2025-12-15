@@ -1,1 +1,0 @@
-<requests.sessions.Session object at 0x0000000005761950>
